@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zhentao-Liu
+- 👋 Hi, I’m Liu Zhentao
 - 👀 I’m interested in computer version and digital image processing
 - 🌱 I’m currently preparing the post-graduate entrance
 - 💞️ I’m looking to collaborate on the research of computer version and digital image processing
